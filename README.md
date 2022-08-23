@@ -13,5 +13,19 @@ Código mais limpo e documentado com a forma mais atual de se escrever React <st
 Desenvolvendo o código com conceitos de <strong>boas práticas como DRY (Don't repeat yourself) e SRP (Single Responsibility Principle).</strong></li>
 </ul>
 
+<h3>Preparando o Ambiente</h3>
 
+Neste projeto é necessário que abra a pasta a qual deseja salvar a aplicação com o terminal ou chegar até lá com comandos no terminal e digitar o seguinte comando:
+```
+npx create-react-app --template typescript alura-studies --use-npm
+```
+Após:
+```
+cd alura-studies) 
+```
+Depois: 
+```
+npm start
+```
 
+<h4>OBS.: PROJETO EM DESENVOLVIMENTO!!</h4>
