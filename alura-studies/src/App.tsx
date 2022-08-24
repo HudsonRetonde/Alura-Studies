@@ -1,9 +1,10 @@
 import React from 'react';
+import Botao from './componentes/Botao';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hellow Word! Botagofo Campeão! </h1>
+      <Botao />
     </div>
   );
 }
